@@ -15,13 +15,139 @@
 
 <hr/>
 
+<h3 align="left">Lenguage and tools</h3>
+<br/>
+
+<!-- HTML5,CSS3,JS,BOOTSRAP,REACTJS,NEXT.JS, JEST,NODE,TERMINAL, BASES DE DATOS, MYSQL, MONGO DB, GIT, GITHUB -->
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/gonzalo-pozzoli-09a643179/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gonzalo pozzoli" height="30" width="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img
+      src="https://i.imgur.com/9ZktlzP.png"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+    src="https://i.imgur.com/nJKeWS5.png"
+    alt="css3"
+    width="40"
+    height="40"
+    />
+  </a>
+  &nbsp;
+  <a
+  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  target="_blank"
+  >
+    <img
+      src="https://i.imgur.com/80KjYfJ.png"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://getbootstrap.com" target="_blank">
+    <img
+      src="https://i.imgur.com/T2CiTGv.png"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://es.reactjs.org/" target="_blank">
+    <img
+      src="https://i.imgur.com/nKmINtq.png"
+      alt="react js"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://i.imgur.com/Aq4rl0n.png"
+      alt="next js"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://jestjs.io/" target="_blank">
+    <img
+      src="https://i.imgur.com/TCCM7Oq.png"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org/es/" target="_blank">
+    <img
+      src="https://i.imgur.com/1dejdbz.png"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="git"
+    width="40"
+    height="40"
+    />
+  </a>
+
+
+<!-- UI AND DESIGN PROGRAMS -->
+<!-- FIGMA, ADOBE XD, ADOBE ILLUSTRATOR, ADOBE PHOTOSHOP -->
+
+<h4 align="left">UI and design programs</h3>
+  
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://i.imgur.com/7EXR6aJ.png"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.adobe.com/la/products/xd.html" target="_blank">
+    <img
+      src="https://i.imgur.com/hNtlqKP.png"
+      alt="adobe xd"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.adobe.com/la/products/illustrator.html" target="_blank">
+    <img
+      src="https://i.imgur.com/X6EKTXM.png"
+      alt="illustrator"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank">
+    <img
+      src="https://i.imgur.com/zSN3h6B.png"
+      alt="photoshop"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalopzl&layout=compact" alt="gonzalopzl" /></p>
 
