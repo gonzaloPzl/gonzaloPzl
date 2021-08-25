@@ -18,7 +18,7 @@
 <h3 align="left">Lenguage and tools</h3>
 <br/>
 
-<!-- HTML5,CSS3,JS,BOOTSRAP,REACTJS,NEXT.JS, JEST,NODE,TERMINAL, BASES DE DATOS, MYSQL, MONGO DB, GIT, GITHUB -->
+<!-- HTML5,CSS3,JS,BOOTSRAP,REACTJS,NEXT.JS, JEST,NODE, BASES DE DATOS, MYSQL, MONGO DB,TERMINAL, GIT, GITHUB -->
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
@@ -95,10 +95,55 @@
     />
   </a>
   &nbsp;
+  <a >
+    <img
+      src="https://i.imgur.com/GNULUT5.png"
+      alt="data base"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+    <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://i.imgur.com/87sES5i.png"
+      alt="mySQL"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://i.imgur.com/OGIv6a2.png"
+      alt="mongo db"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+    <a >
+    <img
+      src="https://i.imgur.com/tvjHxIL.png"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    src="https://i.imgur.com/eOtRQcQ.png"
     alt="git"
+    width="40"
+    height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img
+    src="https://i.imgur.com/6uh7KkR.png"
+    alt="github"
     width="40"
     height="40"
     />
