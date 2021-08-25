@@ -3,7 +3,7 @@
 
 ![](assets/portada.png)
 
-- 🌱 I’m currently learning **Node.js, APIs, servers, etc.**
+- 🌱 I’m currently learning **Backend with Mulesfot.**
 
 - ✍️ I love design webs
 
