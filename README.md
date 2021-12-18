@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 ![](assets/portada.png)
 
