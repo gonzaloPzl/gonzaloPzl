@@ -3,7 +3,7 @@
 
 ![](assets/portada.png)
 
-- 🌱 I’m currently learning **Backend with Mulesoft.**
+- 🌱 I’m currently learning **JAVA**
 
 - ✍️ I love design webs
 
