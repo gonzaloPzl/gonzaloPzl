@@ -77,15 +77,6 @@
     />
   </a>
   &nbsp;
-  <a href="https://jestjs.io/" target="_blank">
-    <img
-      src="https://i.imgur.com/TCCM7Oq.png"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;
   <a href="https://nodejs.org/es/" target="_blank">
     <img
       src="https://i.imgur.com/1dejdbz.png"
@@ -95,10 +86,19 @@
     />
   </a>
   &nbsp;
-  <a href="https://www.mulesoft.com/" target="_blank">
+  <a href="https://dev.java/" target="_blank">
     <img
-      src="https://i.imgur.com/3CXAG5B.png"
-      alt="Mulesfot"
+      src="https://i.imgur.com/yBwlJWv.png"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+      alt="python"
       width="40"
       height="40"
     />
@@ -113,33 +113,6 @@
     />
   </a>
   &nbsp;
-    <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://i.imgur.com/87sES5i.png"
-      alt="mySQL"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://i.imgur.com/OGIv6a2.png"
-      alt="mongo db"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;
-    <a >
-    <img
-      src="https://i.imgur.com/tvjHxIL.png"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img
     src="https://i.imgur.com/eOtRQcQ.png"
@@ -148,16 +121,6 @@
     height="40"
     />
   </a>
-  &nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img
-    src="https://i.imgur.com/6uh7KkR.png"
-    alt="github"
-    width="40"
-    height="40"
-    />
-  </a>
-
 
 <!-- UI AND DESIGN PROGRAMS -->
 <!-- FIGMA, ADOBE XD, ADOBE ILLUSTRATOR, ADOBE PHOTOSHOP -->
