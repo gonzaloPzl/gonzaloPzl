@@ -7,11 +7,9 @@
 
 - ✍️ I love design webs
 
-- 📚 Always study new things, this is my passion
+- 📖 Always study new things, this is my passion
 
-- 👨‍💻 My ux/ui portfolio avaible on [Behance portfolio](https://www.behance.net/gallery/129768041/Portfolio-UXUI-2022)
-
-- 💻 My ux/ui portfolio avaible on <a href="https://www.behance.net/gallery/129768041/Portfolio-UXUI-2022" target="_blank">Behance portfolio</a>
+- 💻 My ux/ui portfolio avaible on [Behance portfolio](https://www.behance.net/gallery/129768041/Portfolio-UXUI-2022)
 
 - 📫 How to reach me **gonzalopozzoli99@gmail.com**
 
