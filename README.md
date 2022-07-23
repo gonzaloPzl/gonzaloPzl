@@ -125,7 +125,7 @@
 <!-- UI AND DESIGN PROGRAMS -->
 <!-- FIGMA, ADOBE XD, ADOBE ILLUSTRATOR, ADOBE PHOTOSHOP -->
 
-<h4 align="left">UI and design programs</h3>
+<h3 align="left">UI and design programs</h3>
   
 <p align="left">
   <a href="https://www.figma.com/" target="_blank">
@@ -164,6 +164,13 @@
     />
   </a>
 </p>
+
+<!-- Mi último video -->
+<hr>
+<h3 align="left">My last video</h3>
+<a href="https://www.youtube.com/watch?v=51Yi0SzKMEs">
+<img src="https://i.imgur.com/u4TZaLI.png" alt="Git y github práctico" width="500">
+</a>
 
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalopzl&layout=compact" alt="gonzalopzl" /></p>
