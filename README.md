@@ -9,7 +9,7 @@
 
 - 📚 Always study new things, this is my passion
 
-- 👨‍💻 All of my projects are available at [https://gonzalopzl.github.io/portfolio/](https://gonzalopzl.github.io/portfolio/)
+- 👨‍💻 My ux/ui portfolio avaible on [Behance portfolio](https://www.behance.net/gallery/129768041/Portfolio-UXUI-2022)
 
 - 📫 How to reach me **gonzalopozzoli99@gmail.com**
 
